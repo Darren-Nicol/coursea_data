@@ -1,2 +1,2 @@
-# coursea_data
+# coursera_data
 coursera_data_tools_course
